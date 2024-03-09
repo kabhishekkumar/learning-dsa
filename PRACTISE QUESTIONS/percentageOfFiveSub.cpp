@@ -1,10 +1,11 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int a=12;
-    int b = 33;
-    int c =66;
-    int d = 22;
-    int e = a+b+c+d/5;
-    cout<<e;
+    int a=91;
+    int b = 90;
+    int c =90;
+    int d = 93;
+    int e = 90;
+    int f = (a+b+c+d+e)/5;
+    cout<<f;
 }
