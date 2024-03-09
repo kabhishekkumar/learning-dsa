@@ -11,4 +11,6 @@ return 0;
 
 //code error 
 //if we change float datatype into integer then this code is run easily
+//compiler is so error becouse reminder no take point value
+
 
