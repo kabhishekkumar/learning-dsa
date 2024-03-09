@@ -1,8 +1,10 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int r =55;
-    int area = 3.14*r*r;
+  float r,area;
+    cout<<"enter the radius of circule";
+    cin>>r;
+  area = 3.14*r*r;
     cout<<area;
 }
 
