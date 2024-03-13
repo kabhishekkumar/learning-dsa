@@ -4,12 +4,17 @@ using namespace std;
 int main()
 {   
     int num;
-    
-   cout<<"Enter Number to find Absolute Value = ";
+    int abNum;
+   cout<<"Enter the Number  = ";
     cin>>num;
-
-    int abNum = -(num);
-
-   cout<<"Actual Number   = "<<num<<endl; 
+if(num<0){
+     abNum = -(num);
+  cout<<"Actual Number   = "<<num<<endl; 
    cout<<"Absolute Number = " <<abNum;
+}
+if(num>0){
+    abNum = num;
+    cout<<"Actual Number   = "<<num<<endl; 
+    cout<<"this number is absolute number = "<<abNum;
+}
 }
