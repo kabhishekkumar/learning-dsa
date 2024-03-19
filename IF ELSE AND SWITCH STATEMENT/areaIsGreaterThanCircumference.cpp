@@ -3,7 +3,7 @@ using namespace std;
 int main(){
   int r;
   int area,circumference;
-  cout<<"enter the value of r";
+  cout<<"enter the value of radius ";
   cin>>r;
 area = 3.14*r*r;
     cout<<"area of circle  = "<<area<<endl;
