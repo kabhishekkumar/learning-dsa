@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int i,n,a,b,fib;
+    int i,n,a,b,fib =0;
     a=0;
     b=1;
 
@@ -9,10 +9,9 @@ int main(){
     cin>>n;
 
     for(i=0; i<=n; i++){
-        cout<<"fibonaci number = ";
-        fib = a+b;
+        cout<<fib<<", ";
         a =b;
         b =fib;
-        
+        fib = a+b;
     }
      }
