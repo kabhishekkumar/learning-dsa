@@ -3,7 +3,7 @@ using namespace std;
 int main(){
     int i,j,n,number=1;
 
-    cout<<"enter the value of n = ";
+    cout<<"enter the positive  value of n = ";
     cin>>n;
 
     for(i=1; i<=n; i++ ){
