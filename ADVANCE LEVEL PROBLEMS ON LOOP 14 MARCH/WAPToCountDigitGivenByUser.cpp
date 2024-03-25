@@ -3,7 +3,7 @@ using namespace std;
 int main(){
     long long number;
 
-    cout<<"enter the number = ";
+    cout<<"enter the number greater than one = ";
     cin>>number;
     number = abs(number);
 
