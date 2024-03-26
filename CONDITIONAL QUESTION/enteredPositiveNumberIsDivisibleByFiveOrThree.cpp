@@ -15,4 +15,5 @@ int main(){
     else{
         cout<<"this number nither divisible by five nor three";
     }
+    return 0;
 }
