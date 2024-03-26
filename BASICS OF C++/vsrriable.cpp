@@ -5,4 +5,5 @@ int main(){
     int b = 12;
     int c = a+b;
     cout<<c;
+    return 0;
 } 
