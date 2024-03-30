@@ -5,7 +5,7 @@ int main(){
     int count=0;
     int a[100];
     int item;
-    cout<<"enter the item = ";
+    cout<<"enter the  item value = ";
     cin>>item;
     cout<<"enter the value of n = ";
     cin>>n;
