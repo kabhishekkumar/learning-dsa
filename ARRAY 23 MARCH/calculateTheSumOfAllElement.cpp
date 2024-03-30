@@ -4,7 +4,7 @@ int main(){
     int i,n;
     int sum=0;
     int a[100];
-    cout<<"enter the value of n = ";
+    cout<<"enter the number = ";
     cin>>n;
      
      cout<<"enter the element of array = ";
