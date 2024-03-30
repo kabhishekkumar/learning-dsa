@@ -5,7 +5,7 @@ int main(){
     int pre;
     int a[100];
     
-    cout<<"enter the value of n = ";
+    cout<<"enter value of n = ";
     cin>>n;
 
     cout<<"enter the element of array = ";
