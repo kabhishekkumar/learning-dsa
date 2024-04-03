@@ -20,7 +20,7 @@ int main(){
     
      v.push_back(40);
      cout<<"size of this vector = "<<v.size()<<endl;
-    cout<<"capacity of this vector = "<<v.capacity()<<endl;
+    cout<<"capacity of this vectors = "<<v.capacity()<<endl;
 
    
     
