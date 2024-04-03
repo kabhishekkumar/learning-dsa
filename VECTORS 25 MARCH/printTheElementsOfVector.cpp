@@ -14,7 +14,7 @@ for(int i=0; i<n; i++){
     v.push_back(element);
 }
 
-for(int i=0; i<v.size(); i++){
+for(int i=0; i<v.size(); i++){ //we use n  place of v.size()
 cout<<v[i]<<" ";
 }
     cout<<endl;
