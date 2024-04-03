@@ -23,5 +23,16 @@ int main(){
     cout<<"capacity of this vectors = "<<v.capacity()<<endl;
 
    
-    
+v.resize(5);
+cout<<"size of this vector = "<<v.size()<<endl;
+    cout<<"capacity of this vectors = "<<v.capacity()<<endl;
+
+v.resize(8);
+cout<<"size of this vector = "<<v.size()<<endl;
+    cout<<"capacity of this vectors = "<<v.capacity()<<endl;
+
+v.pop_back();
+v.pop_back();
+
+
 }
