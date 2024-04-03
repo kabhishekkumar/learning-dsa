@@ -5,7 +5,7 @@ int main(){
     vector<int> v;
 int n;
 int element;
-cout<<"enter the value of n = ";
+cout<<"enter the value of number = ";
 cin>>n;
 
 for(int i=0; i<n; i++){
