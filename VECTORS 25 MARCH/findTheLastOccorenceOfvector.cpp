@@ -5,15 +5,16 @@ int main(){
     vector<int> v(20);
     int i,n;
     int x;
-    cout<<"enter the value ot x:";
-    cin>>x;
-    cout<<"enter the value of n:";
+    
+    cout<<"enter the value of number:";
     cin>>n;
     int count= 0;
 
     for(i=0; i<n; i++){
         cin>>v[i];
     }
+    cout<<"enter the value ot x:";
+    cin>>x;
     for(i=0; i<n; i++){
         if(v[i]==x){
             count++;
