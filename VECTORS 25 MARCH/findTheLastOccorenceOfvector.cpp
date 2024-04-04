@@ -20,8 +20,9 @@ int main(){
         }
        
     }
-     
+     cout<<"how many time :"<<count<<endl;
         cout<<"this the last occorence of entered item"<<i;
+        return 0;
 }
 
 
