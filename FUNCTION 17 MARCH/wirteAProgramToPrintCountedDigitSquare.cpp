@@ -17,6 +17,6 @@ int main(){
 
     int result= square(count);
     cout<<"print the square of counted digit = "<<result<<endl;
-    return 0;
+   
 
 }
