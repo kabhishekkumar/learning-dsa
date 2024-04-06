@@ -8,7 +8,7 @@ using namespace std;
     int main(){
         int r;
 
-        cout<<"enter the r = ";
+        cout<<"enter the value of r = ";
         cin>>r;
         int value = area(r);
         cout<<"print the area of circule = "<<value;
