@@ -28,4 +28,5 @@ else if(a>b){
 else{
     cout<<"don't enter any comand = ";
 }
+return 0;
 }
