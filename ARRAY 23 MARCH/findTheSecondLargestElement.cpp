@@ -16,10 +16,15 @@ int main(){
  for(i=1; i<n; i++){
        if(pre<a[i]){
       pre= a[i];
-    
+      pre=-1;
        }
     }
-   
+    pre =a[0];
+    for(i=1; i<n; i++){
+        if(pre<a[i]){
+            pre=a[i];
+        }
+    }
     cout<<"this largest elemet of this array"<<pre;
     return 0;
 }
