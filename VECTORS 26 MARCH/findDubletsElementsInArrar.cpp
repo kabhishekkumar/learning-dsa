@@ -1,8 +1,6 @@
 /*Find the doublet in the Array whose sum is 
 equal to the given value x (LEETCODE TWO SUM)*/
 
-/*find the total number of pair in the array
-whose sum is equal to the given value of x*/
 
 
 #include<iostream>
