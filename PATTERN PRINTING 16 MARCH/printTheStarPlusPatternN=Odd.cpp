@@ -18,4 +18,5 @@ int mid = (n/2)+1;
         
         cout<<endl;
         }
+        return 0;
 }
