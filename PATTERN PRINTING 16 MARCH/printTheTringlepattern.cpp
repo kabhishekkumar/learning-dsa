@@ -10,5 +10,5 @@ cin>>np;
         }
         cout<<endl;
         }
-
+return 0;
 }
