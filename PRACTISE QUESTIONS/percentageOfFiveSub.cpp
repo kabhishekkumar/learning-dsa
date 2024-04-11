@@ -1,3 +1,5 @@
+//write a program to find the  presentage of student of five subject marks
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -9,5 +11,6 @@ int main(){
     pre= sum/5;
 
     cout<<"precentage of five subject marks = "<<pre<<"%"<<endl;
+    return 0;
 }
     
