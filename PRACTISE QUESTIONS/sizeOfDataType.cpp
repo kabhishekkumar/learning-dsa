@@ -1,3 +1,5 @@
+//write a progam to check that how many memeory space take data type
+
 #include<iostream>
 using namespace std;
 int main(){
