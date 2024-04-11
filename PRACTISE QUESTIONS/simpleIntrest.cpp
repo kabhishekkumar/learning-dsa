@@ -7,4 +7,5 @@ int main(){
    
    intrest = (p*t*r)/100;
    cout<<"print the simple intrest = "<<intrest<<endl;
+   return 0;
 }
