@@ -5,7 +5,7 @@ int main()
 {   
     int num;
     int abNum;
-   cout<<"Enter the Number  = ";
+   cout<<"Enter the N  = ";
     cin>>num;
 if(num<0){
      abNum = -(num);
