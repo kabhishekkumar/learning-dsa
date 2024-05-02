@@ -8,7 +8,7 @@ int main(){
     cout<<"enter value of n = ";
     cin>>n;
 
-    cout<<"enter the element of array = ";
+    cout<<"enter the element of array:";
     for(i=0; i<n; i++){
         cin>>a[i];
     }
