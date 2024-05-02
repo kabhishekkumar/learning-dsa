@@ -22,5 +22,4 @@ int main(){
     }
     cout<<"these some value of array is grater than item ="<<count<<endl;
     
-    return 0;
 }
