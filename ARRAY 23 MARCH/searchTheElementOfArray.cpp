@@ -6,7 +6,7 @@ int main(){
     int a[100];
     cout<<"enter the item = ";
     cin>>item;
-    cout<<"enter the value of n = ";
+    cout<<"enter the value of number: ";
     cin>>n;
 
     cout<<"enter the element of array = ";
