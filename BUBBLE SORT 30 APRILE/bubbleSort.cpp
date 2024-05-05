@@ -27,7 +27,7 @@ for(i=0; i<n; ++i){
 }
 
 
-// second style of to solve bubble sort
+// second style of to solve the bubble sort
 
 // #include<iostream>
 // #include<algorithm>
