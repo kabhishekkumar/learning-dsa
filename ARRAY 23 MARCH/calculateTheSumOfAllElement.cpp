@@ -17,4 +17,5 @@ int main(){
        
     }
      cout<<"print the sum of all element array = "<<sum;
+     return 0;
 }
