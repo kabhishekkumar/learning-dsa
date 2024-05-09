@@ -18,5 +18,4 @@ int main(){
             cout<<"print the element of array = "<<a[i]<<endl;
         }
 }
-return 0;
 }
