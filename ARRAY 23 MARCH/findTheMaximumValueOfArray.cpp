@@ -21,4 +21,5 @@ int main(){
     }
    
     cout<<"this largest elemet of this array"<<pre;
+    return 0;
 }
