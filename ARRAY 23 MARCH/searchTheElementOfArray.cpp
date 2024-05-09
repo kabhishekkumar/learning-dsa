@@ -21,5 +21,6 @@ cout<<"item is find this index = "<<i<<endl;
       
 
     }
+    return 0;
     
 }
